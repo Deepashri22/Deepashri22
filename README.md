@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Deepashri Dabhade</h1>
 <h3 align="center">An aspiring Software Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6")
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
 
 - 🔭 I’m currently working on **MERN Stack Development**
 
