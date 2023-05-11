@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">An aspiring Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg">
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **Data Science**
 
